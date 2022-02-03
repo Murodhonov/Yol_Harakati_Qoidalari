@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yo\'l Harakati Qoidalari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Shlagbaumli temir yo\'l kesishmasi</string>
+    <string name="msg">Yo’l belgisini qo’shish</string>
+    <string name="hint">Yo’l belgisining rasmini qo’shish uchun rasm ustiga bosing</string>
+    <string name="save">Saqlash</string>
+    <string name="longword">Ushbu yo‘l belgisi to‘suvchi qurilma bilan jihozlangan
+temir yo‘l kesishmasiga yetmasdan o‘rnatiladi va
+transport vositalari haydovchilarini oldinda to‘suvchi
+qurilma borligi haqida ogohlantiradi.</string>
+    <string name="test">This is a preview text</string>
+    <string name="array1">Ogohlantiruvchi</string>
+    <string name="array2">Imtiyozli</string>
+    <string name="array3">Ta\'qiqlovchi</string>
+    <string name="array4">Buyuruvchi</string>
+    <string name="change">O\'zgartirish</string>
+</resources>
